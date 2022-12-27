@@ -1,0 +1,4 @@
+# codewars.com
+[![alt rank](https://www.codewars.com/users/Rosaverde/badges/large)](https://www.codewars.com/users/Rosaverde)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rosaverde&langs_count=8&exclude_repo=TOI_Shop_Project_,DB_Uniwersity_Degree_Management_System,UNITY-FoxGame,IMG_Viewer,SDA_Testing_MobileApplications,SDA_TestingSelenium,SDA_TestingBDD,SDA_TestingTDD,University_AlgorithmsAndDataStructures_Project0,University_AlgorithmsAndDataStructures_Project1-2,University_AlgorithmsAndDataStructures_Project3,University_BasicsOfPrograming_EndProject,University_OperatingSystems_Project1,Dices,Xylophone,PetHotel,Portfolio,Purrrfect_Site)](https://github.com/Rosaverde/github-readme-stats)
